@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-ecommerce-product-page/static/css/main.22552724.chunk.css",
-    "main.js": "/react-ecommerce-product-page/static/js/main.4b29995a.chunk.js",
-    "main.js.map": "/react-ecommerce-product-page/static/js/main.4b29995a.chunk.js.map",
-    "runtime-main.js": "/react-ecommerce-product-page/static/js/runtime-main.dbb07299.js",
-    "runtime-main.js.map": "/react-ecommerce-product-page/static/js/runtime-main.dbb07299.js.map",
-    "static/js/2.3bcfda15.chunk.js": "/react-ecommerce-product-page/static/js/2.3bcfda15.chunk.js",
-    "static/js/2.3bcfda15.chunk.js.map": "/react-ecommerce-product-page/static/js/2.3bcfda15.chunk.js.map",
-    "index.html": "/react-ecommerce-product-page/index.html",
-    "static/css/main.22552724.chunk.css.map": "/react-ecommerce-product-page/static/css/main.22552724.chunk.css.map",
-    "static/js/2.3bcfda15.chunk.js.LICENSE.txt": "/react-ecommerce-product-page/static/js/2.3bcfda15.chunk.js.LICENSE.txt",
-    "static/media/blueKid.8d9bf2cc.png": "/react-ecommerce-product-page/static/media/blueKid.8d9bf2cc.png",
-    "static/media/blueWomen.fe76afa7.png": "/react-ecommerce-product-page/static/media/blueWomen.fe76afa7.png",
-    "static/media/greenKid.8dbcde13.png": "/react-ecommerce-product-page/static/media/greenKid.8dbcde13.png",
-    "static/media/greenWomen.ed8a9c29.png": "/react-ecommerce-product-page/static/media/greenWomen.ed8a9c29.png",
-    "static/media/redMen.5098a6bb.png": "/react-ecommerce-product-page/static/media/redMen.5098a6bb.png",
-    "static/media/whiteKid.f7794f90.png": "/react-ecommerce-product-page/static/media/whiteKid.f7794f90.png"
+    "main.css": "/ecommerce/static/css/main.22552724.chunk.css",
+    "main.js": "/ecommerce/static/js/main.f5b75742.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.f5b75742.chunk.js.map",
+    "runtime-main.js": "/ecommerce/static/js/runtime-main.d7385f4d.js",
+    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.d7385f4d.js.map",
+    "static/js/2.306634f4.chunk.js": "/ecommerce/static/js/2.306634f4.chunk.js",
+    "static/js/2.306634f4.chunk.js.map": "/ecommerce/static/js/2.306634f4.chunk.js.map",
+    "index.html": "/ecommerce/index.html",
+    "static/css/main.22552724.chunk.css.map": "/ecommerce/static/css/main.22552724.chunk.css.map",
+    "static/js/2.306634f4.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.306634f4.chunk.js.LICENSE.txt",
+    "static/media/blueKid.8d9bf2cc.png": "/ecommerce/static/media/blueKid.8d9bf2cc.png",
+    "static/media/blueWomen.fe76afa7.png": "/ecommerce/static/media/blueWomen.fe76afa7.png",
+    "static/media/greenKid.8dbcde13.png": "/ecommerce/static/media/greenKid.8dbcde13.png",
+    "static/media/greenWomen.ed8a9c29.png": "/ecommerce/static/media/greenWomen.ed8a9c29.png",
+    "static/media/redMen.5098a6bb.png": "/ecommerce/static/media/redMen.5098a6bb.png",
+    "static/media/whiteKid.f7794f90.png": "/ecommerce/static/media/whiteKid.f7794f90.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbb07299.js",
-    "static/js/2.3bcfda15.chunk.js",
+    "static/js/runtime-main.d7385f4d.js",
+    "static/js/2.306634f4.chunk.js",
     "static/css/main.22552724.chunk.css",
-    "static/js/main.4b29995a.chunk.js"
+    "static/js/main.f5b75742.chunk.js"
   ]
 }
