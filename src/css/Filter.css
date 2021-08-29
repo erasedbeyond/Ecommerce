@@ -1,0 +1,26 @@
+.filter{
+    margin-right: 10px;
+}
+.filter-container{
+    padding: 10px;
+    border: 1px solid #f0f2f5;
+}
+.filter-heading{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.filter-options{
+    display: flex;
+    flex-direction: column;
+}
+
+.price-input{
+    display: flex;
+}
+.price-input input{
+    width: 50px;
+}
+.price-input span{
+    /* display: block; */
+    margin: 0 5px;
+}
