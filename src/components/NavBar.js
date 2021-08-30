@@ -33,7 +33,7 @@ class NavBar extends React.Component {
   
     return (
       <div className="nav-bar">
-        {this.props.filter.search !== '' && <img id='home' src={home} onClick={this.resetSearch}/>}
+        {this.props.filter.search !== '' && <img id='home' src={home} onClick={this.resetSearch} alt='back-btn'/>}
 
         <h1>Ecommerce product page</h1>
 

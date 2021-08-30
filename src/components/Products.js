@@ -64,13 +64,18 @@ updatePageNumber = (e) =>{
 
       products.forEach((item)=>{
         let string = item.title+item.brand+item.category+item.color
-        console.log(string)
         const searchArr = search.toLowerCase().split(" ");
         let flag = true;
-        searchArr.forEach(item=>{
-          if(!string.toLowerCase().includes(item)){
+        searchArr.forEach(searchItem=>{
+          if(!string.toLowerCase().includes(searchItem)){
             flag=false;
             // break;
+          }
+
+          if(searchItem==='men' || searchItem==='mens'){
+            if(item.category.toLowerCase()!=='mens'){
+              flag=false
+            }
           }
         })
 

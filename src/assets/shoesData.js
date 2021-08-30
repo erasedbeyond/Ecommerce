@@ -1,14 +1,14 @@
-import redMen from './images/redMen.png';
-import blueMen from './images/blueMen.png';
-import greenMen from './images/greenMen.png';
-import whiteMen from './images/whiteMen.png';
-import redKid from './images/redKid.png';
-import blueKid from './images/blueKid.png';
-import greenKid from './images/greenKid.png';
-import whiteKid from './images/whiteKid.png';
-import redWomen from './images/redWomen.png';
-import blueWomen from './images/blueWomen.png';
-import greenWomen from './images/greenWomen.png';
+import redMen from './images/shoes/redMen.png';
+import blueMen from './images/shoes/blueMen.png';
+import greenMen from './images/shoes/greenMen.png';
+import whiteMen from './images/shoes/whiteMen.png';
+import redKid from './images/shoes/redKid.png';
+import blueKid from './images/shoes/blueKid.png';
+import greenKid from './images/shoes/greenKid.png';
+import whiteKid from './images/shoes/whiteKid.png';
+import redWomen from './images/shoes/redWomen.png';
+import blueWomen from './images/shoes/blueWomen.png';
+import greenWomen from './images/shoes/greenWomen.png';
 
 
 
@@ -208,7 +208,7 @@ export const data = [
         title:"Shoes",
         description:"The only difference between everybody and nobody is all the shoes",
         price:6000,
-        brand:"Shoexpress",
+        brand:"Max",
         img:redMen,
         color:"red"
 
@@ -217,7 +217,7 @@ export const data = [
         title:"Shoes",
         description:"The only difference between everybody and nobody is all the shoes",
         price:6000,
-        brand:"Shoexpress",
+        brand:"Max",
         img:blueWomen,
         color:"blue"
 
@@ -226,7 +226,7 @@ export const data = [
         title:'Shoes',
         description:"The only difference between everybody and nobody is all the shoes",
         price:6000,
-        brand:"Shoexpress",
+        brand:"Max",
         img:whiteKid,
         color:"white"
 

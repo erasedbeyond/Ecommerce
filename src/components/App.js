@@ -1,6 +1,8 @@
 import React from 'react';
 
-import {data as products} from '../assets/data'
+import {data as shoes} from '../assets/shoesData'
+import {data as tshirt} from '../assets/tshirtData'
+
 import NavBar from './NavBar';
 import Products from './Products';
 import Filter from './Filter';
@@ -12,7 +14,9 @@ import {addProducts} from '../actions/index'
 class App extends React.Component {
 
   componentDidMount(){
-    this.props.dispatch(addProducts(products))
+    this.props.dispatch(addProducts(shoes))
+    this.props.dispatch(addProducts(tshirt))
+
   }
   render(){
     return (
